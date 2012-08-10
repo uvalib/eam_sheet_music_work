@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?expression media exportversion="1.0" appversion="1.0"?>
+<CatalogType>
+   <Catalog pathType="MAC">m000000090</Catalog>
+   <MediaItemList>
+      <MediaItem>
+			      <AssetProperties>
+				        <Filename>m000000090_0001.tif</Filename>
+				        <Filepath>lib_content37:EAM_Sheet:m000000090:m000000090_0001.tif</Filepath>
+				        <UniqueID>631</UniqueID>
+				        <Label>0</Label>
+				        <Rating>0</Rating>
+				        <MediaType>TIFF</MediaType>
+				        <FileSize unit="Bytes">172843404</FileSize>
+				        <Created>2011:01:25 15:11:03</Created>
+				        <Modified>2011:01:25 15:19:57</Modified>
+				        <Added>2011:01:31 10:26:45</Added>
+				        <Annotated>2011:02:02 13:51:57</Annotated>
+			      </AssetProperties>
+			      <MediaProperties>
+				        <Width unit="Pixels">6656</Width>
+				        <Height unit="Pixels">8656</Height>
+				        <Resolution unit="DPI">600</Resolution>
+				        <Depth unit="Bits">24</Depth>
+				        <ViewRotation>1</ViewRotation>
+				        <SampleColor>R:B0 G:D0 B:90</SampleColor>
+				        <Pages>1</Pages>
+				        <ColorSpace>RGB </ColorSpace>
+				        <Compression>65537</Compression>
+				        <PrimaryEncoding>TIFF (Uncompressed)</PrimaryEncoding>
+				        <ColorProfile/>
+			      </MediaProperties>
+			      <AnnotationFields>
+				        <Headline>Front Cover</Headline>
+			      </AnnotationFields>
+			      <MetaDataFields>
+				        <Maker>i2s Digibook Scanner</Maker>
+				        <Model>Suprascan 10000 RGB</Model>
+				        <Software>Digibook Version :5, 5, 0, 23</Software>
+				        <SourceURL/>
+			      </MetaDataFields>
+		    </MediaItem>
+      <MediaItem>
+			      <AssetProperties>
+				        <Filename>m000000090_0002.tif</Filename>
+				        <Filepath>lib_content37:EAM_Sheet:m000000090:m000000090_0002.tif</Filepath>
+				        <UniqueID>632</UniqueID>
+				        <Label>0</Label>
+				        <Rating>0</Rating>
+				        <MediaType>TIFF</MediaType>
+				        <FileSize unit="Bytes">177408396</FileSize>
+				        <Created>2011:01:25 15:19:57</Created>
+				        <Modified>2011:01:25 15:25:47</Modified>
+				        <Added>2011:01:31 10:26:45</Added>
+				        <Annotated>2011:02:02 13:51:58</Annotated>
+			      </AssetProperties>
+			      <MediaProperties>
+				        <Width unit="Pixels">6720</Width>
+				        <Height unit="Pixels">8800</Height>
+				        <Resolution unit="DPI">600</Resolution>
+				        <Depth unit="Bits">24</Depth>
+				        <ViewRotation>1</ViewRotation>
+				        <SampleColor>R:C0 G:D0 B:A0</SampleColor>
+				        <Pages>1</Pages>
+				        <ColorSpace>RGB </ColorSpace>
+				        <Compression>65537</Compression>
+				        <PrimaryEncoding>TIFF (Uncompressed)</PrimaryEncoding>
+				        <ColorProfile/>
+			      </MediaProperties>
+			      <AnnotationFields>
+				        <Headline>2</Headline>
+			      </AnnotationFields>
+			      <MetaDataFields>
+				        <Maker>i2s Digibook Scanner</Maker>
+				        <Model>Suprascan 10000 RGB</Model>
+				        <Software>Digibook Version :5, 5, 0, 23</Software>
+				        <SourceURL/>
+			      </MetaDataFields>
+		    </MediaItem>
+      <MediaItem>
+			      <AssetProperties>
+				        <Filename>m000000090_0003.tif</Filename>
+				        <Filepath>lib_content37:EAM_Sheet:m000000090:m000000090_0003.tif</Filepath>
+				        <UniqueID>633</UniqueID>
+				        <Label>0</Label>
+				        <Rating>0</Rating>
+				        <MediaType>TIFF</MediaType>
+				        <FileSize unit="Bytes">177718284</FileSize>
+				        <Created>2011:01:25 15:25:47</Created>
+				        <Modified>2011:01:25 15:31:39</Modified>
+				        <Added>2011:01:31 10:26:45</Added>
+				        <Annotated>2011:02:02 13:51:59</Annotated>
+			      </AssetProperties>
+			      <MediaProperties>
+				        <Width unit="Pixels">6744</Width>
+				        <Height unit="Pixels">8784</Height>
+				        <Resolution unit="DPI">600</Resolution>
+				        <Depth unit="Bits">24</Depth>
+				        <ViewRotation>1</ViewRotation>
+				        <SampleColor>R:B0 G:D0 B:90</SampleColor>
+				        <Pages>1</Pages>
+				        <ColorSpace>RGB </ColorSpace>
+				        <Compression>65537</Compression>
+				        <PrimaryEncoding>TIFF (Uncompressed)</PrimaryEncoding>
+				        <ColorProfile/>
+			      </MediaProperties>
+			      <AnnotationFields>
+				        <Headline>3</Headline>
+			      </AnnotationFields>
+			      <MetaDataFields>
+				        <Maker>i2s Digibook Scanner</Maker>
+				        <Model>Suprascan 10000 RGB</Model>
+				        <Software>Digibook Version :5, 5, 0, 23</Software>
+				        <SourceURL/>
+			      </MetaDataFields>
+		    </MediaItem>
+      <MediaItem>
+			      <AssetProperties>
+				        <Filename>m000000090_0004.tif</Filename>
+				        <Filepath>lib_content37:EAM_Sheet:m000000090:m000000090_0004.tif</Filepath>
+				        <UniqueID>634</UniqueID>
+				        <Label>0</Label>
+				        <Rating>0</Rating>
+				        <MediaType>TIFF</MediaType>
+				        <FileSize unit="Bytes">177408396</FileSize>
+				        <Created>2011:01:25 15:31:39</Created>
+				        <Modified>2011:01:25 15:39:06</Modified>
+				        <Added>2011:01:31 10:26:45</Added>
+				        <Annotated>2011:02:02 13:51:59</Annotated>
+			      </AssetProperties>
+			      <MediaProperties>
+				        <Width unit="Pixels">6720</Width>
+				        <Height unit="Pixels">8800</Height>
+				        <Resolution unit="DPI">600</Resolution>
+				        <Depth unit="Bits">24</Depth>
+				        <ViewRotation>1</ViewRotation>
+				        <SampleColor>R:B0 G:D0 B:90</SampleColor>
+				        <Pages>1</Pages>
+				        <ColorSpace>RGB </ColorSpace>
+				        <Compression>65537</Compression>
+				        <PrimaryEncoding>TIFF (Uncompressed)</PrimaryEncoding>
+				        <ColorProfile/>
+			      </MediaProperties>
+			      <AnnotationFields>
+				        <Headline>4</Headline>
+			      </AnnotationFields>
+			      <MetaDataFields>
+				        <Maker>i2s Digibook Scanner</Maker>
+				        <Model>Suprascan 10000 RGB</Model>
+				        <Software>Digibook Version :5, 5, 0, 23</Software>
+				        <SourceURL/>
+			      </MetaDataFields>
+		    </MediaItem>
+      <MediaItem>
+			      <AssetProperties>
+				        <Filename>m000000090_0005.tif</Filename>
+				        <Filepath>lib_content37:EAM_Sheet:m000000090:m000000090_0005.tif</Filepath>
+				        <UniqueID>635</UniqueID>
+				        <Label>0</Label>
+				        <Rating>0</Rating>
+				        <MediaType>TIFF</MediaType>
+				        <FileSize unit="Bytes">177718284</FileSize>
+				        <Created>2011:01:25 15:39:06</Created>
+				        <Modified>2011:01:25 15:46:53</Modified>
+				        <Added>2011:01:31 10:26:45</Added>
+				        <Annotated>2011:02:02 13:52:00</Annotated>
+			      </AssetProperties>
+			      <MediaProperties>
+				        <Width unit="Pixels">6744</Width>
+				        <Height unit="Pixels">8784</Height>
+				        <Resolution unit="DPI">600</Resolution>
+				        <Depth unit="Bits">24</Depth>
+				        <ViewRotation>1</ViewRotation>
+				        <SampleColor>R:C0 G:D0 B:A0</SampleColor>
+				        <Pages>1</Pages>
+				        <ColorSpace>RGB </ColorSpace>
+				        <Compression>65537</Compression>
+				        <PrimaryEncoding>TIFF (Uncompressed)</PrimaryEncoding>
+				        <ColorProfile/>
+			      </MediaProperties>
+			      <AnnotationFields>
+				        <Headline>5</Headline>
+			      </AnnotationFields>
+			      <MetaDataFields>
+				        <Maker>i2s Digibook Scanner</Maker>
+				        <Model>Suprascan 10000 RGB</Model>
+				        <Software>Digibook Version :5, 5, 0, 23</Software>
+				        <SourceURL/>
+			      </MetaDataFields>
+		    </MediaItem>
+      <MediaItem>
+			      <AssetProperties>
+				        <Filename>m000000090_0006.tif</Filename>
+				        <Filepath>lib_content37:EAM_Sheet:m000000090:m000000090_0006.tif</Filepath>
+				        <UniqueID>636</UniqueID>
+				        <Label>0</Label>
+				        <Rating>0</Rating>
+				        <MediaType>TIFF</MediaType>
+				        <FileSize unit="Bytes">174451596</FileSize>
+				        <Created>2011:01:25 15:50:01</Created>
+				        <Modified>2011:01:25 15:50:08</Modified>
+				        <Added>2011:01:31 10:26:45</Added>
+				        <Annotated>2011:02:02 13:52:03</Annotated>
+			      </AssetProperties>
+			      <MediaProperties>
+				        <Width unit="Pixels">6608</Width>
+				        <Height unit="Pixels">8800</Height>
+				        <Resolution unit="DPI">600</Resolution>
+				        <Depth unit="Bits">24</Depth>
+				        <ViewRotation>1</ViewRotation>
+				        <SampleColor>R:B0 G:D0 B:90</SampleColor>
+				        <Pages>1</Pages>
+				        <ColorSpace>RGB </ColorSpace>
+				        <Compression>65537</Compression>
+				        <PrimaryEncoding>TIFF (Uncompressed)</PrimaryEncoding>
+				        <ColorProfile/>
+			      </MediaProperties>
+			      <AnnotationFields>
+				        <Headline>Back Cover</Headline>
+			      </AnnotationFields>
+			      <MetaDataFields>
+				        <Maker>i2s Digibook Scanner</Maker>
+				        <Model>Suprascan 10000 RGB</Model>
+				        <Software>Digibook Version :5, 5, 0, 23</Software>
+				        <SourceURL/>
+			      </MetaDataFields>
+		    </MediaItem>
+   </MediaItemList>
+</CatalogType>
